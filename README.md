@@ -1,6 +1,6 @@
 # demo
- finalproject
- rent-a-car
+- finalproject
+- rent-a-car
 Functional Requirements: Requirement analysis is a software engineering approach that consists of a series of activities that establish the demands or conditions that must be satisfied for a new or updated product while taking into account the potential for competing requirements from different users. Functional requirements are those that are used to demonstrate the system's internal functioning nature, as well as the system's description and explanation of each subsystem. It comprises the task that the system should accomplish, the processes involved, the data that the system should contain, and the user interfaces.
 The functional requirements discovered are as follows:
 Customer registration – New users should be able to register online and be assigned a role as a simple user.
@@ -19,6 +19,6 @@ Cars that are part of the system should be available at a certain point.
 #to run this in every laptop
 
 please ensure to copy all the dependencies from pom.xml file
-intellij idea IDE
-Spring Boot framework
-Java Core 17
+- intellij idea IDE
+- Spring Boot framework
+- Java Core 17
